@@ -6,14 +6,14 @@
 //
 
 import SwiftUI
-
+//this is added comments
 struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, My fellow coders")
         }
         .padding()
     }
